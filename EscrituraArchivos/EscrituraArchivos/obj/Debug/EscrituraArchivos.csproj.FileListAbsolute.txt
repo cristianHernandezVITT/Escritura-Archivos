@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\EscrituraArchivos\EscrituraArchivos\bin\Debug\EscrituraArchivos.exe.config
+C:\Users\hp\source\repos\EscrituraArchivos\EscrituraArchivos\bin\Debug\EscrituraArchivos.exe
+C:\Users\hp\source\repos\EscrituraArchivos\EscrituraArchivos\bin\Debug\EscrituraArchivos.pdb
+C:\Users\hp\source\repos\EscrituraArchivos\EscrituraArchivos\obj\Debug\EscrituraArchivos.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\EscrituraArchivos\EscrituraArchivos\obj\Debug\EscrituraArchivos.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\EscrituraArchivos\EscrituraArchivos\obj\Debug\EscrituraArchivos.exe
+C:\Users\hp\source\repos\EscrituraArchivos\EscrituraArchivos\obj\Debug\EscrituraArchivos.pdb
