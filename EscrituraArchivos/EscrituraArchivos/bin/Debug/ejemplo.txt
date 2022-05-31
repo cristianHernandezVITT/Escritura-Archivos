@@ -1,3 +1,12 @@
-Cristian
-Cristian
-Cristian
+Ventas totales($200,000.00) - (Devoluciones sobre ventas($12,000.00)+ descuento($1,200.00))
+Las ventas netas son:$186,800.00 
+Compras($23,000.00) + Gastos de compra($2,000.00)
+Las compras totales son:$25,000.00 
+Compras totales($25,000.00) -(Devoluciones sobre compra($123,000.00)+Descuento sobre compra($1,200.00))
+Las compras netas son:-$99,200.00 
+Inventario inicial($500,000.00) + Compras netas(-$99,200.00)
+El total de mercancias es de:$400,800.00 
+Total de mercancias($400,800.00)-Inventario Final($100,000.00)
+El costo de venta fue de:$300,800.00 
+Ventas netas($186,800.00)-Costo de Venta($300,800.00)
+La utilidad bruta es de:-$114,000.00 
